@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061919641304",
+    "project_id": "cloudimages-22af5",
+    "storage_bucket": "cloudimages-22af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061919641304:android:692293c0435725c17511ad",
+        "android_client_info": {
+          "package_name": "com.ug.cloudimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061919641304-bn5kknjdu9gugt7p0e7mu6m4bqvf7cnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQ215C-ZJhWj4e1t6_Ck5hbz7XJLcK5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061919641304-bn5kknjdu9gugt7p0e7mu6m4bqvf7cnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
