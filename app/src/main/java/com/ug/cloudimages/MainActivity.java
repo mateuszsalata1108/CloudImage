@@ -45,6 +45,13 @@ public class MainActivity extends AppCompatActivity {
         progressBar.setVisibility(View.INVISIBLE);
         ivDodaj = findViewById(R.id.ivDodaj);
 
+        bShowAll.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity( new Intent(MainActivity.this , ShowAllActivity.class));
+            }
+        });
+
         ivDodaj.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
